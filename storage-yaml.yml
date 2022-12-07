@@ -1,0 +1,6 @@
+trigger:
+- main
+
+- task: ShellScript@2
+  inputs:
+    scriptPath: 'sample.sh'
