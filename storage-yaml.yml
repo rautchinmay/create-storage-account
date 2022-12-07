@@ -1,6 +1,6 @@
 trigger:
 - main
 
-- task: ShellScript@2
+- task: ShellScript
   inputs:
     scriptPath: 'test-init.sh'
