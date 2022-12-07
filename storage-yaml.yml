@@ -3,4 +3,4 @@ trigger:
 
 - task: ShellScript@2
   inputs:
-    scriptPath: 'sample.sh'
+    scriptPath: 'test-init.sh'
